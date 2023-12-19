@@ -1,5 +1,7 @@
 Install:
+
 wget https://raw.githubusercontent.com/Goblin-Mini/Asus-RT-AX53U/main/openwrt-23.05.2-asus_rt-ax53u-factory.bin
+
 mtd-write -i openwrt-23.05.2-asus_rt-ax53u-factory.bin -d Kernel
 
 Packages:
